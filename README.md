@@ -1,6 +1,7 @@
 📊 Content-Based Recommendation Dashboard - Power BI 
 
 📝 Deskripsi Proyek
+
 Proyek ini merupakan visualisasi sistem rekomendasi berbasis content-based filtering yang menggunakan data rating kemiripan produk. Tujuannya adalah untuk menganalisis brand-brand yang mendapatkan rating tertinggi dari produk sejenis dan mengevaluasi probabilitas rekomendasi berdasarkan gender dan musim. Visualisasi dilakukan menggunakan Microsoft Power BI untuk mendukung pengambilan keputusan bisnis dan strategi pemasaran.
 
 🗃️ Dataset
